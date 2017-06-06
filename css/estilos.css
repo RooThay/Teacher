@@ -4,8 +4,9 @@
 	box-sizing: border-box;
 }
 .wrap{
+	height: 100%;
 	width:100%;
-	margin:50px auto;
+	margin:1px;
 	display:flex;
 	justify-content:center;
 	
